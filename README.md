@@ -1,2 +1,8 @@
-# bot-broma
-hola soy un bot que es para doxeo y raids asi que estaremos creando bot personalizados y eso 
+# Bot-Broma
+
+Bot de Discord con comandos de bromas divertidas e inofensivas 😂  
+Para pasar un buen rato con amigos en servidores consentidos.
+
+En desarrollo: comandos de chistes, memes, juegos simples, etc.
+
+Hecho por un anonimo 
